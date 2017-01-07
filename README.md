@@ -1,2 +1,2 @@
-# gmserverx
-BATMAN
+# GMSERVERX.RF.GD - NEW HL2RP
+NEW 2K17
